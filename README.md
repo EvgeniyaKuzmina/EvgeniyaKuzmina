@@ -1,4 +1,4 @@
-### Hi there 👋 — welcome to my page on GitHubw
+### Hi there 👋 — welcome to my page on GitHub
 
 <!--
 **EvgeniyaKuzmina/EvgeniyaKuzmina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
