@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 I am coding on java :coffee:.  Tried different languages — python, js, html, css. But on my view java is most simply programming language (joking of course).
 
-I have a dog :dog:. Jack Russell Terrier — it is the same breed of dog like in the film «Mask». And she is really high jump :relaxed:
+I have a dog :dog:. Jack Russell Terrier — it is the same breed of dog like in the film «Mask». And she really jumps very high :relaxed:
 
 
 
