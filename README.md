@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### I am beginner programmers (would like to believe it 😄)
+### I am a novice  programmers (would like to believe it 😄)
 
 ![java](https://user-images.githubusercontent.com/65460902/207630457-6c8113b6-7264-4090-8dc4-7fe8e03e0ad5.svg)
 
